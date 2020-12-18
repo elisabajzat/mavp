@@ -115,7 +115,7 @@
             },
             ".mbr-section-subtitle": {
               "color": "#22c878",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "header3",
